@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid black;
+}
+
+nav {
+    margin: 10px 10px 10px 10px;
+    border: solid red;
+}
+
+
+img {
+    height: 500px;
+    border: solid green;
+    width: 500px;
+    border-radius: 250px 0 250px 0;
+    float: left;
+    margin: 20px 20px 40px 20px;
+}
+
+p {
+    clear: right;
+    text-align: center;
+    border: solid yellow;
+    margin: 30px 30px 30px 30px;
+    padding: 10px;
+}
+
+#footer {
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+ul {
+    border: solid black;
+}
